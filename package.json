@@ -10,7 +10,11 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "dotenv": "^10.0.0",
+    "ipfs": "^0.55.4",
     "mysql": "^2.18.1",
+    "mysql2": "^2.2.5",
+    "orbit-db": "^0.26.1",
     "web3": "^1.4.0"
   }
 }
